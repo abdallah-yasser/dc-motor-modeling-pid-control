@@ -1,0 +1,13 @@
+# MATLAB / Simulink generated files
+*.asv
+*.autosave
+*.slxc
+*.mexw64
+*.mex*
+slprj/
+*.slx.original
+*.r20*
+
+# OS
+.DS_Store
+Thumbs.db
